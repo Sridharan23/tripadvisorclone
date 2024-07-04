@@ -137,6 +137,7 @@
 
 .load {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     font-size: 18px;
@@ -1756,7 +1757,7 @@
         display: block;
     }
 
-    .title h1 {}
+   
 
     .h {
         display: none;
@@ -1884,14 +1885,15 @@
 
 
     .i {
-        margin: 10px;
+        margin: 40px;
         
         display: flex;
         flex-wrap: wrap;
     }
 
+
     .a {
-        margin: 10px;
+        margin: 40px;
         display: flex;
         flex-wrap: wrap;
     }
@@ -1966,25 +1968,25 @@
     .i1 h2 {
         margin-bottom: 10px;
         width: 100px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .i2 h2 {
         margin-bottom: 10px;
         width: 100px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .i3 h2 {
         margin-bottom: 10px;
         width: 100px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .i4 h2 {
         margin-bottom: 10px;
         width: 100px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .a1 img {
@@ -2018,7 +2020,7 @@
 
     .a1 p {
         width: 100px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
 
@@ -2027,33 +2029,33 @@
 
     .a2 h3 {
         width: 100px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
 
     .a2 p {
         width: 100px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .a3 h3 {
         width: 100px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .a3 p {
         width: 100px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .a4 h3 {
         width: 100px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .a4 p {
         width: 100px;
-        font-size: 16px;
+        font-size: 12px;
     }
 
 
